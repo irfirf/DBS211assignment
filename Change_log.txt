@@ -1,0 +1,9 @@
+  change list
+-----------
+- changed irfans Sales_Person_num to SALESPERSON# 
+- changed SALESPERSON from number to varchar because the data we have to input has characters
+- changed most of our column names with caps and underscores 
+
+IMPORTANT
+remember if you want to create the tables, they must be created in the order of primary keys. 
+if you don't, a error may occur. 
