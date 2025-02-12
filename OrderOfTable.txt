@@ -1,0 +1,15 @@
+to create the tables in order without any errors because of fk, you need to make the correct tables.
+1. EQUIP_TYPE
+2. EQUIPMENT
+3. SALESPERSON
+4. CUSTOMER 
+5. STATMENT
+6. STATMENT_EQUIPMENT
+
+if you want to drop the tables, do it in the reverse order
+1. STATEMENT_EQUIPMENT;
+2. STATEMENT;
+3. CUSTOMER;
+4. SALESPERSON;
+5. EQUIPMENT;
+6. EQUIP_TYPE;
