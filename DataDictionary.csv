@@ -35,5 +35,5 @@ Customer Number ,NUMBER,3,yes,yes,yes,,,
 First Name ,VARCHAR2,50,,,yes,,,
 LastName ,VARCHAR2,50,,,yes,,,
 Address ,VARCHAR2,100,,,,,,NULL
-Phone ,VARCHAR2,20,,,,,,NULL
+Phone ,VARCHAR2,12,,,,,,NULL
 Federal_GST_LicenseNumber ,NUMBER,9,,,yes,yes,<9999999999 and >=100000000,
