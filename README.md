@@ -19,7 +19,7 @@ Part 1:
 
 Part 2:
 
-[SQL Table Creation](assignment_sqlcode.sql)
+[SQL Table Creation](AssignmentSqlCode.sql)
 
 [SQL Data Insetion](AssignmentData.sql)
 
@@ -37,7 +37,7 @@ Inserting Group members SQL Queries
 
 Part 6:
 
-Print out for each Tables
+[Print out for each Tables](SelectAndDrop.sql)
 
 Part7:
 
