@@ -1,7 +1,7 @@
 # senDBS211assignment
 DBS211 Assignment: Physical Design and Implementation of Air Engineers Inc
 
-Name(s)               Student ID(s)                Signature 
+Name(s) || Student ID(s) || Signature 
  
 1 - Ahmad Bangura, 175521236, AB
 
@@ -13,30 +13,31 @@ Oracle ACCOUNT:  dbs211_251ncc52
 
 Part 1:
 
-Physical Table: 
+[Physical Table](PhysicalTableDesign.csv)
 
-Data Dictionary:
+[Data Dictionary](DataDictionary.csv)
 
 Part 2:
 
-SQL Table creation: 
+[SQL Table Creation](assignment_sqlcode.sql)
+[SQL Data Insetion](AssignmentData.sql)
 
 Part 3:
 
-Table Views:
+Table Views
 
 Part 4:
 
-Potential SQL Adhoc Queries:
+Potential SQL Adhoc Queries
 
 Part 5:
 
-Inserting Group members SQL Queries:
+Inserting Group members SQL Queries
 
 Part 6:
 
-Print out for each Tables:
+Print out for each Tables
 
 Part7:
 
-Print outs from both Views:
+Print outs from both Views
