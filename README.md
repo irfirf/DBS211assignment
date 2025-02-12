@@ -20,6 +20,7 @@ Part 1:
 Part 2:
 
 [SQL Table Creation](assignment_sqlcode.sql)
+
 [SQL Data Insetion](AssignmentData.sql)
 
 Part 3:
