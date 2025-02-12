@@ -9,3 +9,4 @@ remember if you want to create the tables, they must be created in the order of 
 if you don't, a error may occur. 
 -----feb 11, 2025------
 - added customer check constraint, now you can only add the gst number if its between 100000000 and 999999999
+- changed CUSTOMER SALES_PERSON# and SALESPERSON SALES_PERSON# to number instead of varchar because of fk constraint
