@@ -1,5 +1,5 @@
-  change list
------------
+change list
+-----feb 10, 2025-------
 - changed irfans Sales_Person_num to SALESPERSON# 
 - changed SALESPERSON from number to varchar because the data we have to input has characters
 - changed most of our column names with caps and underscores 
@@ -7,3 +7,5 @@
 IMPORTANT
 remember if you want to create the tables, they must be created in the order of primary keys. 
 if you don't, a error may occur. 
+-----feb 11, 2025------
+- added customer check constraint, now you can only add the gst number if its between 100000000 and 999999999
