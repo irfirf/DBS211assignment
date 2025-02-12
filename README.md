@@ -9,7 +9,34 @@ Name(s)               Student ID(s)                Signature
 
 3 - Irfan Farid, 126930247, IF 
  
-
-
 Oracle ACCOUNT:  dbs211_251ncc52  
 
+Part 1:
+
+Physical Table: 
+
+Data Dictionary:
+
+Part 2:
+
+SQL Table creation: 
+
+Part 3:
+
+Table Views:
+
+Part 4:
+
+Potential SQL Adhoc Queries:
+
+Part 5:
+
+Inserting Group members SQL Queries:
+
+Part 6:
+
+Print out for each Tables:
+
+Part7:
+
+Print outs from both Views:
