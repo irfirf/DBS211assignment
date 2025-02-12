@@ -37,7 +37,8 @@ Inserting Group members SQL Queries
 
 ### Part 6:
 
-[Print out for each Tables](SelectAndDrop.sql)
+Making sure to follow the correct [order](OrderOfTable.txt), 
+[here are the print outs for each table](SelectAndDrop.sql)
 
 ### Part7:
 
