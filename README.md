@@ -41,9 +41,8 @@ Potential SQL Adhoc Queries:
 
 ### Part 6:
 
-Making sure to follow the correct [order](OrderOfTable.txt), 
-here are the [print outs for each table](SelectAndDrop.sql)
+[Print outs for each table](SelectAndDrop.sql)
 
 ### Part7:
 
-Print outs from both Views
+[Print outs from both Views](PrintView.sql)
