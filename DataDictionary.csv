@@ -8,7 +8,7 @@ Cust No ,NUMBER,3,,,yes,,,
 ,,,,,,,,
 STATEMENT_EQUIPMENT ,,,,,,,,
 Column Name ,Data Type ,Length ,PK ,FK ,Not Null ,Unique ,Check ,Default 
-Stm.Num.,VARCHAR2,9,yes,yes,yes, , , 
+Stm.Num.,VARCHAR2,9,,yes,yes, , , 
 Equip Num,VARCHAR2,9,,yes,yes,,,
 Qty ,NUMBER,4,,,yes,,,
 Charge ,NUMBER,"6, 2",,,yes,,,
