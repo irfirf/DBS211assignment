@@ -32,5 +32,7 @@ AND    E.EQP# = ST.EQP#
 AND    ST.STM# = S.STM#
 AND    ST.CHARGE >= 1000;
 
+SELECT * FROM SALESGT1000;
+
 ----
 
