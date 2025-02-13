@@ -23,6 +23,8 @@ _______
 
 [SQL Data Insetion](AssignmentData.sql)
 
+[SQL Add Constraints](AssignmentConstraints.sql)
+
 ### Part 3:
 
 Table Views
