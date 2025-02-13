@@ -35,7 +35,7 @@ Potential SQL Adhoc Queries
 
 ### Part 5:
 
-Inserting Group members SQL Queries
+[Inserting Group members SQL Queries](GroupData.sql)
 
 ### Part 6:
 
