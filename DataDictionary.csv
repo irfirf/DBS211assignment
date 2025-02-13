@@ -4,7 +4,7 @@ Column Name ,Data Type ,Length ,PK ,FK ,Not Null ,Unique ,Check ,Default
 Stm. Num.,VARCHAR2,9,yes, ,yes, , , 
 Stm. Date ,CHAR,10,,,,,,Todays date
 Sales-Person Num. ,VARCHAR2,20,,yes,yes,,,
-Cust No ,NUMBER,3,yes,,,,,
+Cust No ,NUMBER,3,,,yes,,,
 ,,,,,,,,
 STATEMENT_EQUIPMENT ,,,,,,,,
 Column Name ,Data Type ,Length ,PK ,FK ,Not Null ,Unique ,Check ,Default 
