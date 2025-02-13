@@ -27,11 +27,11 @@ _______
 
 ### Part 3:
 
-Table Views
+[Table Views](Views.sql)
 
 ### Part 4:
 
-Potential SQL Adhoc Queries
+Potential SQL Adhoc Queries:
 
 [Assignment On Delete Tables](assignmentOnDelete.sql)
 
