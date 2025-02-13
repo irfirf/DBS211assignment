@@ -32,6 +32,7 @@ Table Views
 ### Part 4:
 
 Potential SQL Adhoc Queries
+[Assignment On Delete Tables](assignmentOnDelete.sql)
 
 ### Part 5:
 
